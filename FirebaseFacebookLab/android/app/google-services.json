@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "123456789012",
+    "project_id": "firebase-facebook-lab-mock",
+    "storage_bucket": "firebase-facebook-lab-mock.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789012:android:abcdef0123456789abcdef",
+        "android_client_info": {
+          "package_name": "com.firebasefacebooklab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456789012-mockclientid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyMockKeyForBuildingTestingPurposesOnly"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
